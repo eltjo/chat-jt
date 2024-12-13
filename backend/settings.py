@@ -44,8 +44,8 @@ class _UiSettings(BaseSettings):
     title: str = "Chat JT"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
-    chat_description: str = "This chatbot is configured to answer your questions"
+    chat_title: str = "Welkom Johan Teake"
+    chat_description: str = "Ik ben je persoonlijke assistent om het slot van je surprise te openen. Laten we snel van start gaan!"
     favicon: str = "/favicon.ico"
     show_share_button: bool = True
     show_chat_history_button: bool = True
